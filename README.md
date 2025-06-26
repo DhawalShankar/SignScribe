@@ -1,4 +1,4 @@
-# 🤟 Gesture-to-Text Translator
+# 🤟 SignScribe - A Gesture to Text Translator 
 
 A unique real-time gesture-to-text translation system built using MediaPipe, OpenCV, and scikit-learn. This project lets you collect your own hand gesture data, train a machine learning model, and use it to recognize gestures and convert them into text — **your own data, your own gestures, your own model**.
 
