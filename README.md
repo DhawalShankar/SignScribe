@@ -131,7 +131,7 @@ pip install -r requirements.txt
 
 ## 🙏 Credits
 
-Made with 💙 by [Dhawal](https://github.com/dhawalshankar),
+Made with 💙 by [Dhawal Shukla](https://github.com/dhawalshankar)
 
 
 
